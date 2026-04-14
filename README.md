@@ -4,3 +4,5 @@ dart flutter, crear un formulario para capturar 4 datos de un empleado y un boto
 
 ## Ejecuccion
 <img width="932" height="935" alt="image" src="https://github.com/user-attachments/assets/a9b92d90-c23d-4ac0-9f08-899ea53a477b" />
+<img width="916" height="858" alt="image" src="https://github.com/user-attachments/assets/a80e0270-91ea-4a0d-a30f-12030ce13f3b" />
+<img width="928" height="943" alt="image" src="https://github.com/user-attachments/assets/3e45908d-a7b1-4441-9cab-52468096f403" />
